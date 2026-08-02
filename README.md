@@ -21,14 +21,14 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Languages**<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Frameworks & Tools**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Hardware / EDA / CAD**<br>
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-9B1B30?style=for-the-badge&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F47320?style=for-the-badge&logo=autodesk&logoColor=white)
 
 </div>
 
@@ -52,32 +52,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ry32767&hide_border=true&background=0d0b1a&ring=ffd166&fire=ffd166&currStreakLabel=ffd166&sideLabels=e8e3ff&currStreakNum=e8e3ff&sideNums=e8e3ff&dates=a48cff&stroke=3a2f6b">
   <img src="https://streak-stats.demolab.com?user=ry32767&hide_border=true&background=fffdf7&ring=7a5c00&fire=c98a00&currStreakLabel=7a5c00&sideLabels=2b2540&currStreakNum=2b2540&sideNums=2b2540&dates=5b3fbf&stroke=e6dfff" height="165" alt="streak" />
-</picture>
-
-</div>
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ry32767&hide_border=true&area=true&bg_color=0d0b1a&color=e8e3ff&title_color=ffd166&line=ffd166&point=a48cff">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ry32767&hide_border=true&area=true&bg_color=fffdf7&color=2b2540&title_color=7a5c00&line=7a5c00&point=5b3fbf" alt="activity graph" />
-</picture>
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ry32767/ry32767/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ry32767/ry32767/output/github-snake.svg" alt="snake animation" />
 </picture>
 
 </div>
