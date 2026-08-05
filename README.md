@@ -10,8 +10,8 @@
 
 ## 🌗 About
 
-- 🔮 **[Grimoire Graph](https://github.com/ry32767/Grimoire-Graph)** — 関数を「描いて」魔法に変える、ブラウザで動くターン制の関数バトル RPG を開発中
-- ⛰️ 登山 GPX データから**断面図・傾斜角グラフ・3D 地形 STL** を生成するツールを作っています
+- 🔮 **[Grimoire Graph](https://ry32767.github.io/Grimoire-Graph/)** — 関数を「描いて」魔法に変える、ブラウザで動くターン制の関数バトル RPG（[リポジトリ](https://github.com/ry32767/Grimoire-Graph)）
+- ⛰️ **[GeoSection](https://ry32767.github.io/GeoSection/)** — 登山 GPX データから断面図・傾斜角グラフ・3D 地形 STL を生成するツール（[リポジトリ](https://github.com/ry32767/GeoSection)）
 - 🧩 数式・地形・回路みたいな「計算がそのまま形になるもの」が好きです
 - 🌱 いま学んでいること: <!-- ここは自由に書き換えてください -->
 
